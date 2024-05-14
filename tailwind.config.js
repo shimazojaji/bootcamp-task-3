@@ -13,6 +13,11 @@ module.exports = {
         'price-color':'#4A6DFF',
         'trash-color':'#FF0000CC',
         'button-color':' #4A6DFF',
+        'primary-gray':'#BFC0CB',
+        'primary-purple':'#6A6C87',
+        'primary-yellow':'#FF9900',
+
+
 
 
       },
